@@ -1,0 +1,34 @@
+h1
+{
+	font-size: 80px;
+	color: black;
+}
+p {
+	color: black; 
+	font-size: 70px;
+	font-family: calibri;
+}
+body {
+	font-size: 15px;
+    background-color: rgb(21, 125, 255);
+	cursor: wait;
+	
+}   
+ol {
+	font-size: 45px;
+	color: black;
+	font-family: calbri;
+}  	
+a {
+    color: white;
+
+}
+div.center {
+   margin: 0 auto;
+  width: 25em;
+}
+ul {
+	font-size: 40px;
+	color: black;
+	font-family: calbri;
+}  	
